@@ -1,0 +1,13 @@
+
+.transactions-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .transactions-list li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
